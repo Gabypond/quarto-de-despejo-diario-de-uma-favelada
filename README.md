@@ -1,0 +1,2 @@
+# quarto-de-despejo-diario-de-uma-favelada
+ Trabalho realizado para a FATEC DE MAUÁ, no curso de Informática para Negócios, durante o 1º Semestre. O projeto é baseado no livro "Quarto de Despejo: Diário de uma Favelada", com o objetivo de apresentar a literatura da autora, descrever e debater a obra em sala de aula. Utilizo a programação para dar visibilidade à sua importância como escritora e romancista, além de apresentar suas obras, empregando conhecimentos de HTML, CSS e JavaScript.
